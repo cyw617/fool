@@ -29,7 +29,7 @@
  * Tim: <your favorite fruit>
  * 
  * [[[ Stage 2 ]]]
- * Alax: <anything>
+ * Alex: <anything>
  * Bill: <anything>
  * Chu: <anything>
  * Coleman: <anything>
@@ -37,17 +37,5 @@
  * Tim: <anything>
  * 
  *  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-
-
-<------------------------- Start: Working Area ------------------------->
-
-[[[ Stage 1 ]]]
-Tim: Apple (of course!)
-
-[[[ Stage 2 ]]]
-(Not Started Yet)
-
-<-------------------------- End: Working Area -------------------------->
-
 
 [Remark] Always pull-before-you-push
