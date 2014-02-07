@@ -22,7 +22,7 @@
  *
  * [[[ Stage 1 ]]]
  * Alex: <your favorite course in university>
- * Bill: <your favorite singer>
+ * Bill: daft punk
  * Chu: <your favorite girl>
  * Coleman: <numbers of girls in your computer>
  * Matthew: <your alevel result>
