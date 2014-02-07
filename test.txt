@@ -38,16 +38,4 @@
  * 
  *  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-
-<------------------------- Start: Working Area ------------------------->
-
-[[[ Stage 1 ]]]
-Tim: Apple (of course!)
-
-[[[ Stage 2 ]]]
-(Not Started Yet)
-
-<-------------------------- End: Working Area -------------------------->
-
-
 [Remark] Always pull-before-you-push
